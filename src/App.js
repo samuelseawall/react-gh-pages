@@ -21,7 +21,7 @@ class App extends React.Component {
                 </Navigation>
             </Header>
     
-        <Drawer title="My Work">
+        <Drawer title="My Portfolio">
             <Navigation>
                 <Link to="">Home</Link>
                 <Link to="/resume">Resume</Link>
